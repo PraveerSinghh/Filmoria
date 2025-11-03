@@ -7,7 +7,7 @@
 
 ## 🚀 Features  
 
-🌟 **Dynamic Hero Section** – Displays a featured movie with background
+🌟 **Dynamic Hero Section** – Displays a featured movie with background.
 🔎 **Smart Search** – Instantly search movies/shows as you type (auto-suggest after 3+ letters).  
 🎭 **Genre Filter** – Filter movies by categories like *Action, Comedy, Animation, Drama,* etc.  
 🎞️ **Continue Watching** – Resume from where you left off via localStorage.  
@@ -39,16 +39,17 @@
    cd Filmoria
 
 2. **Install dependencies**
-   ```npm install```
+   ```bash
+   npm install
 
-3. **Add your environment variables**
-Create a .env file in the root directory and add your TMDB API key:
-```VITE_TMDB_TOKEN=your_tmdb_api_key_here```
+4. **Add your environment variables**
+   Create a .env file in the root directory and add your TMDB API key:
+```bashVITE_TMDB_TOKEN=your_tmdb_api_key_here```
 
-4. **Start the development server**
+5. **Start the development server**
 ``npm run dev``
 
-5. **Open the app**
+6. **Open the app**
 Visit 👉 http://localhost:5173 (Example)
 
 ---
