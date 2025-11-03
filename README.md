@@ -50,9 +50,10 @@ Create a .env file in the root directory and add your TMDB API key:
 
 5. **Open the app**
 Visit 👉 http://localhost:5173 (Example)
+
 ---
 
-##🌍 Deployment
+## 🌍 Deployment
 
 Deploy easily using:
 
@@ -62,16 +63,18 @@ Netlify
 
 Both automatically detect the Vite configuration.
 Just remember to add your .env key in project settings under Environment Variables.
+
 ---
 
-💡 Future Enhancements
+## 💡 Future Enhancements
 
 🧑‍🤝‍🧑 Watch Together Rooms — Create shared movie rooms with friends.
 💬 Real-time Chat — Chat live while watching.
 ❤️ User Accounts & My List — Save your favorite shows securely.
+
 ---
 
-📸 Preview
+## 📸 Preview
 
 (Add screenshots here)
 Example:
