@@ -47,7 +47,7 @@
 ```bashVITE_TMDB_TOKEN=your_tmdb_api_key_here```
 
 5. **Start the development server**
-``npm run dev``
+```npm run dev```
 
 6. **Open the app**
 Visit 👉 http://localhost:5173 (Example)
